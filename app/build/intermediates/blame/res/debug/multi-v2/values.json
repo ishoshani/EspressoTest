@@ -1,34 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ido.shoshani\\Desktop\\eribank-espresso-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\ido.shoshani\\Desktop\\ExpressoTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ido.shoshani\\Desktop\\eribank-espresso-master\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "4,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "118,56",
-                        "endColumns": "44,61",
-                        "endOffsets": "158,113"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,100",
-                        "endColumns": "44,61",
-                        "endOffsets": "95,157"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ido.shoshani\\Desktop\\eribank-espresso-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\ido.shoshani\\Desktop\\ExpressoTest\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,5",
                         "startColumns": "4,4",
-                        "startOffsets": "56,116",
+                        "startOffsets": "59,121",
                         "endLines": "3,8",
                         "endColumns": "58,12",
-                        "endOffsets": "110,333"
+                        "endOffsets": "113,341"
                     },
                     "to": {
                         "startLines": "4,5",
@@ -37,6 +20,23 @@
                         "endLines": "4,8",
                         "endColumns": "57,12",
                         "endOffsets": "215,437"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ido.shoshani\\Desktop\\ExpressoTest\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "122,59",
+                        "endColumns": "44,61",
+                        "endOffsets": "162,116"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,61",
+                        "endOffsets": "95,157"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ido.shoshani\\Desktop\\eribank-espresso-master\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\ido.shoshani\\Desktop\\ExpressoTest\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\ido.shoshani\\.gradle\\caches\\transforms-1\\files-1.1\\rules-0.5.aar\\7103107811909dce9cb399919434b452\\res\\values\\values.xml",
+                    "source": "C:\\Users\\ido.shoshani\\.gradle\\caches\\transforms-1\\files-1.1\\rules-0.5.aar\\4b5f3bb04a44cb3ef0f468c8574c9d21\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
